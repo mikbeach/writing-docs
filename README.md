@@ -12,3 +12,4 @@ System design and decisions made when developing a solution
 - https://www.industrialempathy.com/posts/design-docs-at-google/
 
 ## Low Level
+- https://stackoverflow.blog/2020/07/13/tales-from-documentation-write-for-your-dumbest-user/
